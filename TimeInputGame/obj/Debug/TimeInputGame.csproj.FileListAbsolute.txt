@@ -1,0 +1,7 @@
+C:\Users\tech-w145a\Desktop\Unit-Tests\50-unit-tests-group-eng-24\Group2\TimeInputGame\TimeInputGame\bin\Debug\TimeInputGame.exe.config
+C:\Users\tech-w145a\Desktop\Unit-Tests\50-unit-tests-group-eng-24\Group2\TimeInputGame\TimeInputGame\bin\Debug\TimeInputGame.exe
+C:\Users\tech-w145a\Desktop\Unit-Tests\50-unit-tests-group-eng-24\Group2\TimeInputGame\TimeInputGame\bin\Debug\TimeInputGame.pdb
+C:\Users\tech-w145a\Desktop\Unit-Tests\50-unit-tests-group-eng-24\Group2\TimeInputGame\TimeInputGame\obj\Debug\TimeInputGame.csprojAssemblyReference.cache
+C:\Users\tech-w145a\Desktop\Unit-Tests\50-unit-tests-group-eng-24\Group2\TimeInputGame\TimeInputGame\obj\Debug\TimeInputGame.csproj.CoreCompileInputs.cache
+C:\Users\tech-w145a\Desktop\Unit-Tests\50-unit-tests-group-eng-24\Group2\TimeInputGame\TimeInputGame\obj\Debug\TimeInputGame.exe
+C:\Users\tech-w145a\Desktop\Unit-Tests\50-unit-tests-group-eng-24\Group2\TimeInputGame\TimeInputGame\obj\Debug\TimeInputGame.pdb
